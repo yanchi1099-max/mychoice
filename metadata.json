@@ -1,0 +1,5 @@
+{
+  "name": "MacroDecision Mate",
+  "description": "A smart diet assistant for indecisive users. It manages specific macro goals (high carb, moderate protein), handles fixed breakfasts, and uses AI to precisely calculate portion sizes (cooked weight) for lunch and dinner choices based on remaining daily quotas.",
+  "requestFramePermissions": []
+}
